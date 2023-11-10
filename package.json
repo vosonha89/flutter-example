@@ -1,0 +1,11 @@
+{
+    "name": "flutter_example",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+        "start": "cd flutter_example && flutter run",
+        "build": "cd flutter_example && flutter build",
+        "clean": "cd flutter_example && flutter clean",
+        "test": "cd flutter_example && flutter test"
+    }
+}
