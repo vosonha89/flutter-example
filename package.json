@@ -4,7 +4,9 @@
     "version": "0.0.0",
     "scripts": {
         "start": "cd flutter_example && flutter run",
+        "start:web": "cd flutter_example && flutter run -d chrome",
         "build": "cd flutter_example && flutter build",
+        "build:web": "cd flutter_example && flutter build web",
         "clean": "cd flutter_example && flutter clean",
         "test": "cd flutter_example && flutter test"
     }
